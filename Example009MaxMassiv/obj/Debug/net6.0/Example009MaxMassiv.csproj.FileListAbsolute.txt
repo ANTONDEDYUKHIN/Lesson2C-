@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\bin\Debug\net6.0\Example009MaxMassiv.exe
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\bin\Debug\net6.0\Example009MaxMassiv.deps.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\bin\Debug\net6.0\Example009MaxMassiv.runtimeconfig.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\bin\Debug\net6.0\Example009MaxMassiv.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\bin\Debug\net6.0\Example009MaxMassiv.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\obj\Debug\net6.0\Example009MaxMassiv.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\obj\Debug\net6.0\Example009MaxMassiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\obj\Debug\net6.0\Example009MaxMassiv.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\obj\Debug\net6.0\Example009MaxMassiv.AssemblyInfo.cs
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\obj\Debug\net6.0\Example009MaxMassiv.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\obj\Debug\net6.0\Example009MaxMassiv.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\obj\Debug\net6.0\refint\Example009MaxMassiv.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\obj\Debug\net6.0\Example009MaxMassiv.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\obj\Debug\net6.0\Example009MaxMassiv.genruntimeconfig.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009MaxMassiv\obj\Debug\net6.0\ref\Example009MaxMassiv.dll
