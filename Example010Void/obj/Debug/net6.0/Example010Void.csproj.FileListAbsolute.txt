@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\obj\Debug\net6.0\Example010Void.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\obj\Debug\net6.0\Example010Void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\obj\Debug\net6.0\Example010Void.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\obj\Debug\net6.0\Example010Void.AssemblyInfo.cs
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\obj\Debug\net6.0\Example010Void.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\bin\Debug\net6.0\Example010Void.exe
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\bin\Debug\net6.0\Example010Void.deps.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\bin\Debug\net6.0\Example010Void.runtimeconfig.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\bin\Debug\net6.0\Example010Void.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\bin\Debug\net6.0\Example010Void.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\obj\Debug\net6.0\Example010Void.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\obj\Debug\net6.0\refint\Example010Void.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\obj\Debug\net6.0\Example010Void.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\obj\Debug\net6.0\Example010Void.genruntimeconfig.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Void\obj\Debug\net6.0\ref\Example010Void.dll
