@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\bin\Debug\net6.0\Example009Max.exe
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\bin\Debug\net6.0\Example009Max.deps.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\bin\Debug\net6.0\Example009Max.runtimeconfig.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\bin\Debug\net6.0\Example009Max.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\bin\Debug\net6.0\Example009Max.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\obj\Debug\net6.0\Example009Max.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\obj\Debug\net6.0\Example009Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\obj\Debug\net6.0\Example009Max.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\obj\Debug\net6.0\Example009Max.AssemblyInfo.cs
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\obj\Debug\net6.0\Example009Max.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\obj\Debug\net6.0\Example009Max.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\obj\Debug\net6.0\refint\Example009Max.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\obj\Debug\net6.0\Example009Max.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\obj\Debug\net6.0\Example009Max.genruntimeconfig.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example009Max\obj\Debug\net6.0\ref\Example009Max.dll
