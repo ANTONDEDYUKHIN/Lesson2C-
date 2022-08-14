@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\bin\Debug\net6.0\Example010Find.exe
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\bin\Debug\net6.0\Example010Find.deps.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\bin\Debug\net6.0\Example010Find.runtimeconfig.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\bin\Debug\net6.0\Example010Find.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\bin\Debug\net6.0\Example010Find.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\obj\Debug\net6.0\Example010Find.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\obj\Debug\net6.0\Example010Find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\obj\Debug\net6.0\Example010Find.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\obj\Debug\net6.0\Example010Find.AssemblyInfo.cs
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\obj\Debug\net6.0\Example010Find.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\obj\Debug\net6.0\Example010Find.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\obj\Debug\net6.0\refint\Example010Find.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\obj\Debug\net6.0\Example010Find.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\obj\Debug\net6.0\Example010Find.genruntimeconfig.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\lesson2\Example010Find\obj\Debug\net6.0\ref\Example010Find.dll
